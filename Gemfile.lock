@@ -17,7 +17,9 @@ GEM
     tilt (2.0.6)
 
 PLATFORMS
+  java
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   httparty
@@ -26,4 +28,4 @@ DEPENDENCIES
   sinatra
 
 BUNDLED WITH
-   1.14.3
+   1.14.6
